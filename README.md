@@ -40,14 +40,15 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=HussainRiaz-sudo&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=HussainRiaz-sudo&theme=nord&hide_border=true" alt="GitHub Streak Stats" width="49%" />
-</p>
+| ⚡ **GitHub Stats** | 🔥 **Streak Stats** |
+| :---: | :---: |
+| ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=HussainRiaz-sudo&show_icons=true&theme=nord&hide_border=true) | ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=HussainRiaz-sudo&theme=nord&hide_border=true) |
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HussainRiaz-sudo&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-</p>
+<br/>
+
+| 📈 **Contribution Activity Graph** |
+| :---: |
+| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HussainRiaz-sudo&theme=react-dark&hide_border=true) |
 
 ---
 
