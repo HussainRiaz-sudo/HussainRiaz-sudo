@@ -6,6 +6,12 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Data%20Analyst%20%7C%20BI%20Specialist-2D6A4F?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Degree-BS%20Computer%20Science-3A5A40?style=for-the-badge&logo=academic-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-E76F51?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 ---
 
 ## 🌿 The Journey | About Me
@@ -28,17 +34,28 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 | **Analytics & BI** | ![Data Analysis](https://img.shields.io/badge/Data_Analysis-2A9D8F?style=flat-square) ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-264653?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-E76F51?style=flat-square) ![Database Design](https://img.shields.io/badge/Database_Design-457B9D?style=flat-square) |
 | **Soft Skills** | ![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-2D6A4F?style=flat-square) ![Communication](https://img.shields.io/badge/Communication-3A5A40?style=flat-square) ![Team Leadership](https://img.shields.io/badge/Team_Leadership-52796F?style=flat-square) ![Problem Solving](https://img.shields.io/badge/Problem_Solving-2A9D8F?style=flat-square) ![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-D4A373?style=flat-square) |
 
+<br/>
+
+<details>
+<summary>🔍 <b>Click to expand Core Analyst Competencies</b></summary>
+<br/>
+
+- **📊 Data Wrangling & Processing:** Extensive experience performing ETL, data cleaning, handling missing values, and manipulating structured/unstructured datasets with `Pandas` & `NumPy`.
+- **🗄️ Database & SQL Modeling:** Designing normalized relational schemas, writing optimized SQL queries, aggregations, window functions, and complex joins.
+- **📈 Data Storytelling & BI:** Translating raw datasets into clear dashboards, visual trends, and business insights for stakeholders.
+</details>
+
 ---
 
 ## 🏰 Curated Works | Featured Projects
 
 | 🏥 **[Patient-Tracker](https://github.com/HussainRiaz-sudo/Patient-Tracker)** | 🕌 **[Baab-Ul-Salah](https://github.com/HussainRiaz-sudo/Baab-Ul-Salah)** |
 |:---|:---|
-| Healthcare workflow management system designed for tracking patient workflows and revenue-sharing logic.<br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Workflow](https://img.shields.io/badge/Workflow-Management-2D6A4F?style=flat-square) | Computer Science Final Year Project (FYP) repository.<br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FYP](https://img.shields.io/badge/CS-Final_Year_Project-52796F?style=flat-square) |
+| Healthcare workflow management system designed for tracking patient workflows and revenue-sharing logic.<br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Workflow](https://img.shields.io/badge/Workflow-Management-2D6A4F?style=flat-square) ![Revenue Logic](https://img.shields.io/badge/Revenue_Split-70%2F30-3A5A40?style=flat-square) | Computer Science Final Year Project (FYP) repository.<br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FYP](https://img.shields.io/badge/CS-Final_Year_Project-52796F?style=flat-square) |
 
 | 🔢 **[100-numpy-problems-solved](https://github.com/HussainRiaz-sudo/100-numpy-problems-solved)** | 📚 **[numpy-100](https://github.com/HussainRiaz-sudo/numpy-100)** |
 |:---|:---|
-| Step-by-step solutions to 100 NumPy data processing and numeric computing exercises.<br/><br/>![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/Python-Data_Processing-2A9D8F?style=flat-square) | Reference repository for 100 NumPy problem challenges.<br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| Step-by-step solutions to 100 NumPy data processing and numeric computing exercises.<br/><br/>![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![100% Solved](https://img.shields.io/badge/Status-100%2F100_Solved-2A9D8F?style=flat-square) ![Python](https://img.shields.io/badge/Python-Data_Processing-2A9D8F?style=flat-square) | Reference repository for 100 NumPy problem challenges.<br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ---
 
@@ -64,5 +81,16 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 ## 🚂 Whistle & Dispatch | Let's Connect!
 
-- 💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/)
-- 💬 *Let's talk if you're working on something worth solving.*
+<p align="center">
+  <a href="https://www.linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_On_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:muhammadhussainriaz123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send_Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>💬 Let's talk if you're working on something worth solving.</i>
+</p>
