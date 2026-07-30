@@ -26,6 +26,14 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 ---
 
+## 🧠 Analyst Mindset | Core Philosophy
+
+- ❓ **Always Asking "Why":** I constantly probe beneath surface metrics—asking *why* numbers look off or shift, and identifying root trends to drive better, more accurate results.
+- 🎯 **Data Integrity & Quality:** Meticulously auditing, cleaning, and validating raw datasets before building models or drawing conclusions.
+- 📢 **Executive Clarity:** Translating complex technical findings into simple, visual, and actionable insights for non-technical decision-makers.
+
+---
+
 ## 🧪 The Analyst's Toolkit | Technical Skills
 
 | Category | Skills & Technologies |
@@ -47,11 +55,21 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 ---
 
+## 📜 Certifications & Learning
+
+[![LinkedIn Certifications](https://img.shields.io/badge/Certifications-View_Full_Credentials_On_LinkedIn-2D6A4F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hussain-riaz-959a9b254/)
+
+- 🎓 **Data Analytics & Business Intelligence Specialization**
+- 🗄️ **Advanced SQL & Relational Database Engineering**
+- 🐍 **Python for Data Science, Wrangling & Machine Learning**
+
+---
+
 ## 🏰 Curated Works | Featured Projects
 
 | 🏥 **[Patient-Tracker](https://github.com/HussainRiaz-sudo/Patient-Tracker)** | 🕌 **[Baab-Ul-Salah](https://github.com/HussainRiaz-sudo/Baab-Ul-Salah)** |
 |:---|:---|
-| Healthcare workflow management system designed for tracking patient workflows and revenue-sharing logic.<br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-2D6A4F?style=flat-square&logo=javascript&logoColor=black) ![Workflow](https://img.shields.io/badge/Workflow-Management-3A5A40?style=flat-square) ![Revenue Logic](https://img.shields.io/badge/Revenue_Split-70%2F30-2A9D8F?style=flat-square) | Computer Science Final Year Project (FYP) repository.<br/><br/>![Python](https://img.shields.io/badge/Python-2D6A4F?style=flat-square&logo=python&logoColor=white) ![FYP](https://img.shields.io/badge/CS-Final_Year_Project-3A5A40?style=flat-square) |
+| Healthcare workflow management system designed for tracking patient workflows and revenue-sharing logic.<br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-2D6A4F?style=flat-square&logo=javascript&logoColor=white) ![Workflow](https://img.shields.io/badge/Workflow-Management-3A5A40?style=flat-square) ![Revenue Logic](https://img.shields.io/badge/Revenue_Split-70%2F30-2A9D8F?style=flat-square) | Computer Science Final Year Project (FYP) repository.<br/><br/>![Python](https://img.shields.io/badge/Python-2D6A4F?style=flat-square&logo=python&logoColor=white) ![FYP](https://img.shields.io/badge/CS-Final_Year_Project-3A5A40?style=flat-square) |
 
 ---
 
@@ -78,7 +96,7 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 ## 🚂 Whistle & Dispatch | Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-hussain-riaz-959a9b254/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_On_LinkedIn-2D6A4F?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
