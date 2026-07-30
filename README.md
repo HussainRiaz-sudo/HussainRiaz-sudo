@@ -59,9 +59,9 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 [![LinkedIn Certifications](https://img.shields.io/badge/Certifications-View_Credentials_On_LinkedIn-2D6A4F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hussain-riaz-959a9b254/)
 
-- 🐍 **Data Analysis Using Python** — *NAVTTC* ![Python](https://img.shields.io/badge/NAVTTC-Certified-2A9D8F?style=flat-square&logo=python&logoColor=white)
-- 📊 **Data Literacy Professional** — *DataCamp* ![DataCamp](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
-- 🛡️ **Data Governance Fundamentals** — *DataCamp* ![DataCamp](https://img.shields.io/badge/DataCamp-Certified-3A5A40?style=flat-square&logo=datacamp&logoColor=white)
+- 🐍 **Data Analysis Using Python** — *NAVTTC* ![NAVTTC Certified](https://img.shields.io/badge/NAVTTC-Certified-2D6A4F?style=flat-square&logo=python&logoColor=white)
+- 📊 **Data Literacy Professional** — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
+- 🛡️ **Data Governance Fundamentals** — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
 
 ---
 
