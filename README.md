@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/ghibli_banner.jpg" alt="Studio Ghibli Landscape" width="100%" style="border-radius: 10px;" />
-</p>
-
 # 🍃 Welcome to My Corner of the World! I'm Muhammad Hussain Riaz
 
 <p align="center">
@@ -30,7 +26,7 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 | :--- | :--- |
 | **Languages & Tools** | ![Python](https://img.shields.io/badge/Python-2D6A4F?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-3A5A40?style=flat-square&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/C++-52796F?style=flat-square&logo=cplusplus&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013220?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-155D27?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-D4A373?style=flat-square) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F4A261?style=flat-square&logo=scikitlearn&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
 | **Analytics & BI** | ![Data Analysis](https://img.shields.io/badge/Data_Analysis-2A9D8F?style=flat-square) ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-264653?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-E76F51?style=flat-square) ![Database Design](https://img.shields.io/badge/Database_Design-457B9D?style=flat-square) |
-| **Soft Skills** | `Analytical Thinking` `Communication` `Team Leadership` `Problem-Solving` `Attention to Detail` |
+| **Soft Skills** | ![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-2D6A4F?style=flat-square) ![Communication](https://img.shields.io/badge/Communication-3A5A40?style=flat-square) ![Team Leadership](https://img.shields.io/badge/Team_Leadership-52796F?style=flat-square) ![Problem Solving](https://img.shields.io/badge/Problem_Solving-2A9D8F?style=flat-square) ![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-D4A373?style=flat-square) |
 
 ---
 
@@ -48,15 +44,15 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 ## 📜 The Chronicles | GitHub Analytics
 
-| ⚡ **GitHub Stats** | 🔥 **Streak Stats** |
+| ⚡ **GitHub Stats** | 🔤 **Most Used Languages** |
 | :---: | :---: |
-| ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=HussainRiaz-sudo&show_icons=true&theme=gruvbox&hide_border=true) | ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=HussainRiaz-sudo&theme=gruvbox&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=HussainRiaz-sudo&show_icons=true&theme=nord&hide_border=true) | ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HussainRiaz-sudo&layout=compact&theme=nord&hide_border=true) |
 
 <br/>
 
 | 📈 **Contribution Activity Graph** |
 | :---: |
-| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HussainRiaz-sudo&theme=gruvbox&hide_border=true) |
+| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HussainRiaz-sudo&theme=react-dark&hide_border=true) |
 
 ---
 
