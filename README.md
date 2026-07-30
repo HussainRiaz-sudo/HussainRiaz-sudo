@@ -51,7 +51,7 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 | 🏥 **[Patient-Tracker](https://github.com/HussainRiaz-sudo/Patient-Tracker)** | 🕌 **[Baab-Ul-Salah](https://github.com/HussainRiaz-sudo/Baab-Ul-Salah)** |
 |:---|:---|
-| Healthcare workflow management system designed for tracking patient workflows and revenue-sharing logic.<br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-2D6A4F?style=flat-square&logo=javascript&logoColor=white) ![Workflow](https://img.shields.io/badge/Workflow-Management-3A5A40?style=flat-square) ![Revenue Logic](https://img.shields.io/badge/Revenue_Split-70%2F30-2A9D8F?style=flat-square) | Computer Science Final Year Project (FYP) repository.<br/><br/>![Python](https://img.shields.io/badge/Python-2D6A4F?style=flat-square&logo=python&logoColor=white) ![FYP](https://img.shields.io/badge/CS-Final_Year_Project-3A5A40?style=flat-square) |
+| Healthcare workflow management system designed for tracking patient workflows and revenue-sharing logic.<br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-2D6A4F?style=flat-square&logo=javascript&logoColor=black) ![Workflow](https://img.shields.io/badge/Workflow-Management-3A5A40?style=flat-square) ![Revenue Logic](https://img.shields.io/badge/Revenue_Split-70%2F30-2A9D8F?style=flat-square) | Computer Science Final Year Project (FYP) repository.<br/><br/>![Python](https://img.shields.io/badge/Python-2D6A4F?style=flat-square&logo=python&logoColor=white) ![FYP](https://img.shields.io/badge/CS-Final_Year_Project-3A5A40?style=flat-square) |
 
 ---
 
@@ -69,9 +69,9 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 ---
 
-## 🐉 Fire Dragon Contribution Grid
+## 📜 Contribution Grid
 
-![Fire Dragon Animation](https://raw.githubusercontent.com/HussainRiaz-sudo/HussainRiaz-sudo/output/github-contribution-grid-snake.svg)
+![Contribution Animation](https://raw.githubusercontent.com/HussainRiaz-sudo/HussainRiaz-sudo/output/github-contribution-grid-snake.svg)
 
 ---
 
