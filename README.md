@@ -59,13 +59,13 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 | ⚡ **GitHub Stats** | 🔤 **Most Used Languages** |
 | :---: | :---: |
-| ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=HussainRiaz-sudo&show_icons=true&theme=gruvbox&hide_border=true) | ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HussainRiaz-sudo&layout=compact&theme=gruvbox&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=HussainRiaz-sudo&show_icons=true&bg_color=111e16&title_color=52796f&text_color=e0e1dd&border_color=2d6a4f) | ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HussainRiaz-sudo&layout=compact&bg_color=111e16&title_color=52796f&text_color=e0e1dd&border_color=2d6a4f) |
 
 <br/>
 
 | 📈 **Contribution Activity Graph** |
 | :---: |
-| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HussainRiaz-sudo&theme=gruvbox&hide_border=true) |
+| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HussainRiaz-sudo&bg_color=111e16&color=52796f&line=2a9d8f&point=e0e1dd&area=true) |
 
 ---
 
