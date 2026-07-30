@@ -69,9 +69,9 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 ---
 
-## 🐍 Contribution Graph Snake
+## 🐉 Fire Dragon Contribution Grid
 
-![Snake animation](https://raw.githubusercontent.com/HussainRiaz-sudo/HussainRiaz-sudo/output/github-contribution-grid-snake.svg)
+![Fire Dragon Animation](https://raw.githubusercontent.com/HussainRiaz-sudo/HussainRiaz-sudo/output/github-contribution-grid-snake.svg)
 
 ---
 
