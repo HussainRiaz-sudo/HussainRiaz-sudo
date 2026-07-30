@@ -1,13 +1,11 @@
-# 🍃 Welcome to My Corner of the World! I'm Muhammad Hussain Riaz
+<div align="center">
+
+# 🍃 Welcome to My Corner of the World!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2D6A4F&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Business+Analyst+%7C+Business+Intelligence;CS+Graduate+%7C+Python%2C+SQL+%26+Data+Analytics;Finding+Patterns+in+the+Noise+%26+Stories+in+Data)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2D6A4F&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Business+Analyst+%7C+Business+Intelligence;CS+Graduate+%7C+Python%2C+SQL+%26+BI+Specialist;Finding+Patterns+in+the+Noise+%26+Stories+in+Data" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Data%20Analyst%20%7C%20BI%20Specialist-2D6A4F?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Data%20Analyst%20%7C%20Business%20Analyst-2D6A4F?style=for-the-badge&logo=target&logoColor=white" />
   <img src="https://img.shields.io/badge/Degree-BS%20Computer%20Science-3A5A40?style=for-the-badge&logo=academic-cap&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work-2A9D8F?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -16,9 +14,13 @@
   <img src="https://komarev.com/ghpvc/?username=HussainRiaz-sudo&color=2D6A4F&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
+</div>
+
 ---
 
 ## 🌿 The Journey | About Me
+
+<div align="center">
 
 Four years of Computer Science gave me a strong foundation in **programming**, **algorithms**, and **analytical thinking**. In my final stretch, I went all in on **Data Analytics**—building real-world SQL projects, analyzing data with Python, and sharpening my skills through the full analyst toolkit ever since.
 
@@ -26,7 +28,9 @@ Four years of Computer Science gave me a strong foundation in **programming**, *
 
 I'm a strong communicator and organized, and I write regularly. When the time comes, I don't just analyze data; I explain it clearly to people who don't live in spreadsheets.
 
-🎯 **Looking for opportunities:** Actively seeking my first **Data Analyst** or **Junior BI role**. Open to internships, full-time positions, and freelance projects.
+🎯 **Looking for opportunities:** Actively seeking my first **Data Analyst** or **Business Analyst role**. Open to internships, full-time positions, and freelance projects.
+
+</div>
 
 ---
 
@@ -73,7 +77,7 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 | 🏥 **[Patient-Tracker](https://github.com/HussainRiaz-sudo/Patient-Tracker)** | 🕌 **[Baab-Ul-Salah](https://github.com/HussainRiaz-sudo/Baab-Ul-Salah)** |
 |:---|:---|
-| Healthcare workflow management system designed for tracking patient workflows and revenue-sharing logic.<br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-2D6A4F?style=flat-square&logo=javascript&logoColor=black) ![Workflow](https://img.shields.io/badge/Workflow-Management-3A5A40?style=flat-square) ![Revenue Logic](https://img.shields.io/badge/Revenue_Split-70%2F30-2A9D8F?style=flat-square) | Computer Science Final Year Project (FYP) repository.<br/><br/>![Python](https://img.shields.io/badge/Python-2D6A4F?style=flat-square&logo=python&logoColor=white) ![FYP](https://img.shields.io/badge/CS-Final_Year_Project-3A5A40?style=flat-square) |
+| Healthcare workflow management system designed for tracking patient workflows and revenue-sharing logic.<br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-2D6A4F?style=flat-square&logo=javascript&logoColor=white) ![Workflow](https://img.shields.io/badge/Workflow-Management-3A5A40?style=flat-square) ![Revenue Logic](https://img.shields.io/badge/Revenue_Split-70%2F30-2A9D8F?style=flat-square) | Computer Science Final Year Project (FYP) repository.<br/><br/>![Python](https://img.shields.io/badge/Python-2D6A4F?style=flat-square&logo=python&logoColor=white) ![FYP](https://img.shields.io/badge/CS-Final_Year_Project-3A5A40?style=flat-square) |
 
 ---
 
