@@ -53,10 +53,6 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 |:---|:---|
 | Healthcare workflow management system designed for tracking patient workflows and revenue-sharing logic.<br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Workflow](https://img.shields.io/badge/Workflow-Management-2D6A4F?style=flat-square) ![Revenue Logic](https://img.shields.io/badge/Revenue_Split-70%2F30-3A5A40?style=flat-square) | Computer Science Final Year Project (FYP) repository.<br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FYP](https://img.shields.io/badge/CS-Final_Year_Project-52796F?style=flat-square) |
 
-| 🔢 **[100-numpy-problems-solved](https://github.com/HussainRiaz-sudo/100-numpy-problems-solved)** | 📚 **[numpy-100](https://github.com/HussainRiaz-sudo/numpy-100)** |
-|:---|:---|
-| Step-by-step solutions to 100 NumPy data processing and numeric computing exercises.<br/><br/>![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![100% Solved](https://img.shields.io/badge/Status-100%2F100_Solved-2A9D8F?style=flat-square) ![Python](https://img.shields.io/badge/Python-Data_Processing-2A9D8F?style=flat-square) | Reference repository for 100 NumPy problem challenges.<br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-
 ---
 
 ## 📜 The Chronicles | GitHub Analytics
@@ -86,8 +82,8 @@ I'm a strong communicator and organized, and I write regularly. When the time co
     <img src="https://img.shields.io/badge/LinkedIn-Connect_On_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:muhammadhussainriaz123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send_Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:muhammadhussainriaz123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-muhammadhussainriaz123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
