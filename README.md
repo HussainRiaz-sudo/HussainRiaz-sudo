@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work-2A9D8F?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HussainRiaz-sudo&color=2D6A4F&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🌿 The Journey | About Me
@@ -69,7 +73,7 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 | 🏥 **[Patient-Tracker](https://github.com/HussainRiaz-sudo/Patient-Tracker)** | 🕌 **[Baab-Ul-Salah](https://github.com/HussainRiaz-sudo/Baab-Ul-Salah)** |
 |:---|:---|
-| Healthcare workflow management system designed for tracking patient workflows and revenue-sharing logic.<br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-2D6A4F?style=flat-square&logo=javascript&logoColor=white) ![Workflow](https://img.shields.io/badge/Workflow-Management-3A5A40?style=flat-square) ![Revenue Logic](https://img.shields.io/badge/Revenue_Split-70%2F30-2A9D8F?style=flat-square) | Computer Science Final Year Project (FYP) repository.<br/><br/>![Python](https://img.shields.io/badge/Python-2D6A4F?style=flat-square&logo=python&logoColor=white) ![FYP](https://img.shields.io/badge/CS-Final_Year_Project-3A5A40?style=flat-square) |
+| Healthcare workflow management system designed for tracking patient workflows and revenue-sharing logic.<br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-2D6A4F?style=flat-square&logo=javascript&logoColor=black) ![Workflow](https://img.shields.io/badge/Workflow-Management-3A5A40?style=flat-square) ![Revenue Logic](https://img.shields.io/badge/Revenue_Split-70%2F30-2A9D8F?style=flat-square) | Computer Science Final Year Project (FYP) repository.<br/><br/>![Python](https://img.shields.io/badge/Python-2D6A4F?style=flat-square&logo=python&logoColor=white) ![FYP](https://img.shields.io/badge/CS-Final_Year_Project-3A5A40?style=flat-square) |
 
 ---
 
@@ -77,7 +81,7 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 | ⚡ **GitHub Stats** | 🔤 **Most Used Languages** |
 | :---: | :---: |
-| ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=HussainRiaz-sudo&show_icons=true&bg_color=111e16&title_color=52796f&text_color=e0e1dd&border_color=2d6a4f) | ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HussainRiaz-sudo&layout=compact&bg_color=111e16&title_color=52796f&text_color=e0e1dd&border_color=2d6a4f) |
+| ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=HussainRiaz-sudo&show_icons=true&bg_color=111e16&title_color=52796f&text_color=e0e1dd&border_color=2d6a4f&border_radius=8) | ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HussainRiaz-sudo&layout=compact&bg_color=111e16&title_color=52796f&text_color=e0e1dd&border_color=2d6a4f&border_radius=8) |
 
 <br/>
 
