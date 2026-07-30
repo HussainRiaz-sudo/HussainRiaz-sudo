@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Data%20Analyst%20%7C%20BI%20Specialist-2D6A4F?style=for-the-badge&logo=target&logoColor=white" />
   <img src="https://img.shields.io/badge/Degree-BS%20Computer%20Science-3A5A40?style=for-the-badge&logo=academic-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-E76F51?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-2A9D8F?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -30,9 +30,9 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 | Category | Skills & Technologies |
 | :--- | :--- |
-| **Languages & Tools** | ![Python](https://img.shields.io/badge/Python-2D6A4F?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-3A5A40?style=flat-square&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/C++-52796F?style=flat-square&logo=cplusplus&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013220?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-155D27?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-D4A373?style=flat-square) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F4A261?style=flat-square&logo=scikitlearn&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **Analytics & BI** | ![Data Analysis](https://img.shields.io/badge/Data_Analysis-2A9D8F?style=flat-square) ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-264653?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-E76F51?style=flat-square) ![Database Design](https://img.shields.io/badge/Database_Design-457B9D?style=flat-square) |
-| **Soft Skills** | ![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-2D6A4F?style=flat-square) ![Communication](https://img.shields.io/badge/Communication-3A5A40?style=flat-square) ![Team Leadership](https://img.shields.io/badge/Team_Leadership-52796F?style=flat-square) ![Problem Solving](https://img.shields.io/badge/Problem_Solving-2A9D8F?style=flat-square) ![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-D4A373?style=flat-square) |
+| **Languages & Tools** | ![Python](https://img.shields.io/badge/Python-2D6A4F?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-3A5A40?style=flat-square&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/C++-52796F?style=flat-square&logo=cplusplus&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-2D6A4F?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-3A5A40?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-52796F?style=flat-square) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-2A9D8F?style=flat-square&logo=scikitlearn&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-2D6A4F?style=flat-square&logo=fastapi&logoColor=white) |
+| **Analytics & BI** | ![Data Analysis](https://img.shields.io/badge/Data_Analysis-2D6A4F?style=flat-square) ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-3A5A40?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-52796F?style=flat-square&logo=microsoftexcel&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-2A9D8F?style=flat-square) ![Database Design](https://img.shields.io/badge/Database_Design-2D6A4F?style=flat-square) |
+| **Soft Skills** | ![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-2D6A4F?style=flat-square) ![Communication](https://img.shields.io/badge/Communication-3A5A40?style=flat-square) ![Team Leadership](https://img.shields.io/badge/Team_Leadership-52796F?style=flat-square) ![Problem Solving](https://img.shields.io/badge/Problem_Solving-2A9D8F?style=flat-square) ![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-2D6A4F?style=flat-square) |
 
 <br/>
 
@@ -51,7 +51,7 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 | 🏥 **[Patient-Tracker](https://github.com/HussainRiaz-sudo/Patient-Tracker)** | 🕌 **[Baab-Ul-Salah](https://github.com/HussainRiaz-sudo/Baab-Ul-Salah)** |
 |:---|:---|
-| Healthcare workflow management system designed for tracking patient workflows and revenue-sharing logic.<br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Workflow](https://img.shields.io/badge/Workflow-Management-2D6A4F?style=flat-square) ![Revenue Logic](https://img.shields.io/badge/Revenue_Split-70%2F30-3A5A40?style=flat-square) | Computer Science Final Year Project (FYP) repository.<br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FYP](https://img.shields.io/badge/CS-Final_Year_Project-52796F?style=flat-square) |
+| Healthcare workflow management system designed for tracking patient workflows and revenue-sharing logic.<br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-2D6A4F?style=flat-square&logo=javascript&logoColor=white) ![Workflow](https://img.shields.io/badge/Workflow-Management-3A5A40?style=flat-square) ![Revenue Logic](https://img.shields.io/badge/Revenue_Split-70%2F30-2A9D8F?style=flat-square) | Computer Science Final Year Project (FYP) repository.<br/><br/>![Python](https://img.shields.io/badge/Python-2D6A4F?style=flat-square&logo=python&logoColor=white) ![FYP](https://img.shields.io/badge/CS-Final_Year_Project-3A5A40?style=flat-square) |
 
 ---
 
@@ -59,13 +59,13 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 | ⚡ **GitHub Stats** | 🔤 **Most Used Languages** |
 | :---: | :---: |
-| ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=HussainRiaz-sudo&show_icons=true&theme=nord&hide_border=true) | ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HussainRiaz-sudo&layout=compact&theme=nord&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=HussainRiaz-sudo&show_icons=true&theme=gruvbox&hide_border=true) | ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HussainRiaz-sudo&layout=compact&theme=gruvbox&hide_border=true) |
 
 <br/>
 
 | 📈 **Contribution Activity Graph** |
 | :---: |
-| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HussainRiaz-sudo&theme=react-dark&hide_border=true) |
+| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HussainRiaz-sudo&theme=gruvbox&hide_border=true) |
 
 ---
 
@@ -79,11 +79,11 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 <p align="center">
   <a href="https://www.linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_On_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_On_LinkedIn-2D6A4F?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:muhammadhussainriaz123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-muhammadhussainriaz123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-muhammadhussainriaz123%40gmail.com-2A9D8F?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
