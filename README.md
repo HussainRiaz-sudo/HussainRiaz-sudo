@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <a href="https://hussainriaz-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Website-3A5A40?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=HussainRiaz-sudo&color=2D6A4F&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
@@ -106,6 +110,10 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 ## 🚂 Whistle & Dispatch | Let's Connect!
 
 <p align="center">
+  <a href="https://hussainriaz-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Live_Portfolio-3A5A40?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/muhammad-hussain-riaz-959a9b254/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_On_LinkedIn-2D6A4F?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
