@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://hussainriaz-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Website-3A5A40?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Website-3A5A40?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=HussainRiaz-sudo&color=2D6A4F&style=flat-square&label=Profile+Views" alt="Profile Views" />
