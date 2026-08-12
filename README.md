@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/HussainRiaz-sudo/HussainRiaz-sudo/raw/main/Muhammad_Hussain_Riaz_Resume.pdf" target="_blank">
+  <a href="https://github.com/HussainRiaz-sudo/HussainRiaz-sudo/raw/main/Muhammad%20Hussain%20Riaz-%20Associate%20Data%20Analyst.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download%20PDF-2D6A4F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
   &nbsp;&nbsp;
@@ -122,7 +122,7 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 ## 🚂 Whistle & Dispatch | Let's Connect!
 
 <p align="center">
-  <a href="https://github.com/HussainRiaz-sudo/HussainRiaz-sudo/raw/main/Muhammad_Hussain_Riaz_Resume.pdf" target="_blank">
+  <a href="https://github.com/HussainRiaz-sudo/HussainRiaz-sudo/raw/main/Muhammad%20Hussain%20Riaz-%20Associate%20Data%20Analyst.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download_PDF_Resume-2D6A4F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
   &nbsp;&nbsp;
