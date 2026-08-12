@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/HussainRiaz-sudo/HussainRiaz-sudo/raw/main/Muhammad_Hussain_Riaz_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download%20PDF-2D6A4F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://hussainriaz-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Website-3A5A40?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -83,7 +87,7 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 | 🌐 **[Portfolio](https://github.com/HussainRiaz-sudo/Portfolio)** | 🏥 **[Patient-Tracker](https://github.com/HussainRiaz-sudo/Patient-Tracker)** | 🕌 **[Baab-Ul-Salah](https://github.com/HussainRiaz-sudo/Baab-Ul-Salah)** |
 |:---|:---|:---|
-| Personal  portfolio website showcasing projects and skills.<br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-2D6A4F?style=flat-square&logo=javascript&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-Live_App-3A5A40?style=flat-square&logo=vercel&logoColor=white) ![Live Website](https://img.shields.io/badge/Live-Website-2A9D8F?style=flat-square) | Healthcare workflow management system designed for tracking patient workflows and revenue-sharing logic.<br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-2D6A4F?style=flat-square&logo=javascript&logoColor=white) ![Workflow](https://img.shields.io/badge/Workflow-Management-3A5A40?style=flat-square) ![Revenue Logic](https://img.shields.io/badge/Revenue_Split-70%2F30-2A9D8F?style=flat-square) | Computer Science Final Year Project (FYP) repository.<br/><br/>![Python](https://img.shields.io/badge/Python-2D6A4F?style=flat-square&logo=python&logoColor=white) ![FYP](https://img.shields.io/badge/CS-Final_Year_Project-3A5A40?style=flat-square) |
+| Personal developer portfolio website showcasing data analytics projects, interactive case studies, and skills.<br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-2D6A4F?style=flat-square&logo=javascript&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-Live_App-3A5A40?style=flat-square&logo=vercel&logoColor=white) ![Live Website](https://img.shields.io/badge/Live-Website-2A9D8F?style=flat-square) | Healthcare workflow management system designed for tracking patient workflows and revenue-sharing logic.<br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-2D6A4F?style=flat-square&logo=javascript&logoColor=white) ![Workflow](https://img.shields.io/badge/Workflow-Management-3A5A40?style=flat-square) ![Revenue Logic](https://img.shields.io/badge/Revenue_Split-70%2F30-2A9D8F?style=flat-square) | Computer Science Final Year Project (FYP) repository.<br/><br/>![Python](https://img.shields.io/badge/Python-2D6A4F?style=flat-square&logo=python&logoColor=white) ![FYP](https://img.shields.io/badge/CS-Final_Year_Project-3A5A40?style=flat-square) |
 
 ---
 
@@ -118,6 +122,10 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 ## 🚂 Whistle & Dispatch | Let's Connect!
 
 <p align="center">
+  <a href="https://github.com/HussainRiaz-sudo/HussainRiaz-sudo/raw/main/Muhammad_Hussain_Riaz_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download_PDF_Resume-2D6A4F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://hussainriaz-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Live_Portfolio-3A5A40?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
