@@ -2,7 +2,8 @@ name: Generate Snake Contribution Grid
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # Run every 6 hours (00:00, 06:00, 12:00, 18:00 UTC) to catch new commits automatically
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     branches:
