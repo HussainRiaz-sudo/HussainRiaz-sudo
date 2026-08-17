@@ -30,7 +30,7 @@
 
 <div align="center">
 
-Four years of Computer Science gave me a strong foundation in **programming**, **algorithms**, and **analytical thinking**. In my final stretch, I went all in on **Data Analytics**—building real-world SQL projects, analyzing data with Python, and sharpening my skills through the full analyst toolkit ever since.
+Four years of Computer Science gave me a strong foundation in **programming**, **algorithms**, and **analytical thinking**. In my final stretch, I went all in on **Data Analytics**—building real-world SQL projects, analyzing data with Excel, and sharpening my skills through the full analyst toolkit ever since.
 
 > 🔮 *I'm genuinely curious about data—not just technically, but about what it's actually saying. Why does this number look off? What's the trend beneath the surface telling us? That kind of thinking is what pulled me toward analytics and keeps me in it.*
 
