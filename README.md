@@ -77,9 +77,11 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 - 🤖 **Claude 101** — *Anthropic* ![Anthropic Certified](https://img.shields.io/badge/Anthropic-Certified-2D6A4F?style=flat-square&logo=anthropic&logoColor=white)
 - 💡 **AI Fluency Framework & Foundations** — *Anthropic* ![Anthropic Certified](https://img.shields.io/badge/Anthropic-Certified-2D6A4F?style=flat-square&logo=anthropic&logoColor=white)
-- 🐍 **Data Analysis Using Python** — *NAVTTC* ![NAVTTC Certified](https://img.shields.io/badge/NAVTTC-Certified-2D6A4F?style=flat-square&logo=python&logoColor=white)
+- 🧠 **AI Fundamentals** — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
 - 📊 **Data Literacy Professional** — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
 - 🛡️ **Data Governance Fundamentals** — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
+- 🔒 **GDPR & Data Privacy Fundamentals** — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
+- 🐍 **Data Analysis Using Python** — *NAVTTC* ![NAVTTC Certified](https://img.shields.io/badge/NAVTTC-Certified-2D6A4F?style=flat-square&logo=python&logoColor=white)
 
 ---
 
