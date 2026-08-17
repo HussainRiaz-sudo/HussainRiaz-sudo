@@ -75,12 +75,12 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 [![LinkedIn Certifications](https://img.shields.io/badge/Certifications-View_Credentials_On_LinkedIn-2D6A4F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hussain-riaz-959a9b254/)
 
-- 🤖 **Claude 101** — *Anthropic* ![Anthropic Certified](https://img.shields.io/badge/Anthropic-Certified-2D6A4F?style=flat-square&logo=anthropic&logoColor=white)
-- 💡 **AI Fluency Framework & Foundations** — *Anthropic* ![Anthropic Certified](https://img.shields.io/badge/Anthropic-Certified-2D6A4F?style=flat-square&logo=anthropic&logoColor=white)
-- 🧠 **AI Fundamentals** — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
-- 📊 **Data Literacy Professional** — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
-- 🛡️ **Data Governance Fundamentals** — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
-- 🔒 **GDPR & Data Privacy Fundamentals** — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
+- 🤖 [**Claude 101**](https://verify.skilljar.com/c/5cty7723xaup) — *Anthropic* ![Anthropic Certified](https://img.shields.io/badge/Anthropic-Certified-2D6A4F?style=flat-square&logo=anthropic&logoColor=white)
+- 💡 [**AI Fluency Framework & Foundations**](https://verify.skilljar.com/c/5cty7723xaup) — *Anthropic* ![Anthropic Certified](https://img.shields.io/badge/Anthropic-Certified-2D6A4F?style=flat-square&logo=anthropic&logoColor=white)
+- 🧠 [**AI Fundamentals**](https://www.datacamp.com/skill-verification/AIF0020458005675) — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
+- 📊 [**Data Literacy Professional**](https://www.datacamp.com/skill-verification/DL0037146852993) — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
+- 🛡️ [**Data Governance Fundamentals**](https://www.datacamp.com/skill-verification/DG0024071040363) — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
+- 🔒 [**GDPR & Data Privacy Fundamentals**](https://www.datacamp.com/skill-verification/GDP0013884735456) — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
 - 🐍 **Data Analysis Using Python** — *NAVTTC* ![NAVTTC Certified](https://img.shields.io/badge/NAVTTC-Certified-2D6A4F?style=flat-square&logo=python&logoColor=white)
 
 ---
