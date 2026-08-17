@@ -2,7 +2,7 @@
 
 # 🍃 Welcome to My Corner of the World!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2D6A4F&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Business+Analyst+%7C+Business+Intelligence;CS+Graduate+%7C+Python%2C+SQL+%26+Data+Analytics;Finding+Patterns+in+the+Noise+%26+Stories+in+Data)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2D6A4F&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Business+Analyst+%7C+Business+Intelligence;CS+Graduate+%7C+SQL%2C+Excel+%26+Data+Analytics;Finding+Patterns+in+the+Noise+%26+Stories+in+Data)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Data%20Analyst%20%7C%20Business%20Analyst-2D6A4F?style=for-the-badge&logo=target&logoColor=white" />
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-Four years of Computer Science gave me a strong foundation in **programming**, **algorithms**, and **analytical thinking**. In my final stretch, I went all in on **Data Analytics**—building real-world SQL projects, analyzing data with Python, and sharpening my skills through the full analyst toolkit ever since.
+Four years of Computer Science gave me a strong foundation in **programming**, **algorithms**, and **analytical thinking**. In my final stretch, I went all in on **Data Analytics**—building real-world SQL databases, analyzing data with Excel & Python, and sharpening my skills through the full analyst toolkit ever since.
 
 > 🔮 *I'm genuinely curious about data—not just technically, but about what it's actually saying. Why does this number look off? What's the trend beneath the surface telling us? That kind of thinking is what pulled me toward analytics and keeps me in it.*
 
@@ -55,7 +55,7 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 | Category | Skills & Technologies |
 | :--- | :--- |
 | **Languages & Tools** | ![SQL](https://img.shields.io/badge/SQL-2D6A4F?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3A5A40?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-52796F?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2A9D8F?style=flat-square&logo=pandas&logoColor=white) |
-| **Analytics & BI** | ![Data Analysis](https://img.shields.io/badge/Data_Analysis-2D6A4F?style=flat-square) ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-3A5A40?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-52796F?style=flat-square&logo=microsoftexcel&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-2A9D8F?style=flat-square) ![Database Design](https://img.shields.io/badge/Database_Design-2D6A4F?style=flat-square) |
+| **Analytics & BI** | ![Excel](https://img.shields.io/badge/Excel-2D6A4F?style=flat-square&logo=microsoftexcel&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-3A5A40?style=flat-square) ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-52796F?style=flat-square) ![Database Design](https://img.shields.io/badge/Database_Design-2A9D8F?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-2D6A4F?style=flat-square) |
 | **Soft Skills** | ![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-2D6A4F?style=flat-square) ![Communication](https://img.shields.io/badge/Communication-3A5A40?style=flat-square) ![Team Leadership](https://img.shields.io/badge/Team_Leadership-52796F?style=flat-square) ![Problem Solving](https://img.shields.io/badge/Problem_Solving-2A9D8F?style=flat-square) ![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-2D6A4F?style=flat-square) |
 
 <br/>
@@ -64,7 +64,7 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 <summary>🔍 <b>Click to expand Core Analyst Competencies</b></summary>
 <br/>
 
-- **📊 Data Wrangling & Processing:** Extensive experience performing ETL, data cleaning, handling missing values, and manipulating structured/unstructured datasets with `Pandas` & `NumPy`.
+- **📊 Data Wrangling & Processing:** Extensive experience performing data cleaning, audit checks, handling missing values, and manipulating datasets using `Microsoft Excel` (Advanced Formulas, XLOOKUP, Pivot Tables) alongside `Python` (`Pandas` & `NumPy`).
 - **🗄️ Database & SQL Modeling:** Designing normalized relational schemas, writing optimized SQL queries, aggregations, window functions, and complex joins.
 - **📈 Data Storytelling & BI:** Translating raw datasets into clear dashboards, visual trends, and business insights for stakeholders.
 </details>
