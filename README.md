@@ -64,7 +64,7 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 <summary>🔍 <b>Click to expand Core Analyst Competencies</b></summary>
 <br/>
 
-- **📊 Data Wrangling & Processing:** Extensive experience performing data cleaning, audit checks, handling missing values, and manipulating datasets using `Microsoft Excel` (Advanced Formulas, XLOOKUP, Pivot Tables) alongside `Python` (`Pandas` & `NumPy`).
+- **📊 Data Wrangling & Processing:** Experience performing data cleaning, handling missing values, and manipulating datasets using `Microsoft Excel` (Advanced Formulas, XLOOKUP, Pivot Tables) alongside `Python` (`Pandas` & `NumPy`).
 - **🗄️ Database & SQL Modeling:** Designing normalized relational schemas, writing optimized SQL queries, aggregations, window functions, and complex joins.
 - **📈 Data Storytelling & BI:** Translating raw datasets into clear dashboards, visual trends, and business insights for stakeholders.
 </details>
