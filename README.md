@@ -121,7 +121,7 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 ### 📜 Contribution Grid
 
-![Contribution Grid Animation](https://raw.githubusercontent.com/HussainRiaz-sudo/HussainRiaz-sudo/main/assets/github-contribution-grid-snake-dark.svg)
+![Contribution Grid Animation](https://cdn.jsdelivr.net/gh/HussainRiaz-sudo/HussainRiaz-sudo@main/assets/github-contribution-grid-snake-dark.svg)
 
 </div>
 
