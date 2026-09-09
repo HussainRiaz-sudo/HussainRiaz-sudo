@@ -103,7 +103,7 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 | ⚡ **GitHub Stats** | 🔤 **Most Used Languages** |
 | :---: | :---: |
-| ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=HussainRiaz-sudo&show_icons=true&bg_color=111e16&title_color=52796f&text_color=e0e1dd&border_color=2d6a4f&border_radius=8) | ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HussainRiaz-sudo&layout=compact&bg_color=111e16&title_color=52796f&text_color=e0e1dd&border_color=2d6a4f&border_radius=8) |
+| ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=HussainRiaz-sudo&show_icons=true&count_private=true&bg_color=111e16&title_color=52796f&text_color=e0e1dd&border_color=2d6a4f&border_radius=8) | ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HussainRiaz-sudo&layout=compact&count_private=true&bg_color=111e16&title_color=52796f&text_color=e0e1dd&border_color=2d6a4f&border_radius=8) |
 
 <br/>
 
@@ -111,7 +111,7 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 ### 📈 Contribution Activity & Streak Stats
 
-![GitHub Streak & Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=HussainRiaz-sudo&theme=dark&background=111E16&stroke=2D6A4F&ring=2A9D8F&fire=E76F51&currStreakNum=E0E1DD&currStreakLabel=2D6A4F&dates=52796F)
+![GitHub Streak & Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=HussainRiaz-sudo&count_private=true&theme=dark&background=111E16&stroke=2D6A4F&ring=2A9D8F&fire=E76F51&currStreakNum=E0E1DD&currStreakLabel=2D6A4F&dates=52796F)
 
 </div>
 
