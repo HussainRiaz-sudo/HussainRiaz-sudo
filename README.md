@@ -103,7 +103,7 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 | ⚡ **GitHub Stats** | 🔤 **Most Used Languages** |
 | :---: | :---: |
-| ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=HussainRiaz-sudo&show_icons=true&count_private=true&bg_color=111e16&title_color=52796f&text_color=e0e1dd&border_color=2d6a4f&border_radius=8) | ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HussainRiaz-sudo&layout=compact&count_private=true&bg_color=111e16&title_color=52796f&text_color=e0e1dd&border_color=2d6a4f&border_radius=8) |
+| ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=HussainRiaz-sudo&show_icons=true&count_private=true&bg_color=111e16&title_color=52796f&text_color=e0e1dd&border_color=2d6a4f&border_radius=8) | ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HussainRiaz-sudo&langs_count=5&count_private=true&bg_color=111e16&title_color=52796f&text_color=e0e1dd&border_color=2d6a4f&border_radius=8) |
 
 <br/>
 
