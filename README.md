@@ -111,7 +111,7 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 ### 📈 Contribution Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HussainRiaz-sudo&bg_color=111e16&color=52796f&line=2a9d8f&point=e0e1dd&area=true)
+![GitHub Contribution Chart](https://ghchart.rshah.org/2d6a4f/HussainRiaz-sudo)
 
 </div>
 
@@ -121,7 +121,7 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 ### 📜 Contribution Grid
 
-![Contribution Animation](https://raw.githubusercontent.com/HussainRiaz-sudo/HussainRiaz-sudo/output/github-contribution-grid-snake.svg)
+![Contribution Animation](https://raw.githubusercontent.com/HussainRiaz-sudo/HussainRiaz-sudo/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
