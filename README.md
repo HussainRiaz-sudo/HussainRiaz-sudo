@@ -111,7 +111,7 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 ### 📈 Contribution Activity & Streak Stats
 
-![GitHub Streak & Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=HussainRiaz-sudo&count_private=true&theme=dark&background=111E16&stroke=2D6A4F&ring=2A9D8F&fire=E76F51&currStreakNum=E0E1DD&currStreakLabel=2D6A4F&dates=52796F)
+![GitHub Streak & Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=HussainRiaz-sudo&count_private=true&theme=dark&background=111E16&stroke=2D6A4F&border_radius=8&ring=2A9D8F&fire=E76F51&currStreakNum=E0E1DD&sideNums=E0E1DD&currStreakLabel=52796F&sideLabels=52796F&dates=8DA998)
 
 </div>
 
