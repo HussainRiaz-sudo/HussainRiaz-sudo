@@ -109,9 +109,9 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 <div align="center">
 
-### 📈 Contribution Activity Graph
+### 📈 Contribution Activity & Streak Stats
 
-![GitHub Contribution Chart](https://ghchart.rshah.org/2d6a4f/HussainRiaz-sudo)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HussainRiaz-sudo&theme=dark&background=111E16&stroke=2D6A4F&ring=2A9D8F&fire=E76F51&currStreakNum=E0E1DD&currStreakLabel=2D6A4F&dates=52796F" alt="GitHub Streak & Contribution Stats" width="80%" />
 
 </div>
 
@@ -121,7 +121,7 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 ### 📜 Contribution Grid
 
-![Contribution Animation](https://raw.githubusercontent.com/HussainRiaz-sudo/HussainRiaz-sudo/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/HussainRiaz-sudo/HussainRiaz-sudo/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Grid Animation" />
 
 </div>
 
