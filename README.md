@@ -75,6 +75,7 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 [![View Certifications & Credentials](https://img.shields.io/badge/View-Certifications_%26_Credentials-2D6A4F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hussain-riaz-959a9b254/)
 
+- 🎯 [**Associate Data Analyst**](https://www.datacamp.com/certificate/DAA0013879261292) — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
 - 🤖 [**Claude 101**](https://verify.skilljar.com/c/rp7p5e5nhjdd) — *Anthropic* ![Anthropic Certified](https://img.shields.io/badge/Anthropic-Certified-2D6A4F?style=flat-square&logo=anthropic&logoColor=white)
 - 💡 [**AI Fluency Framework & Foundations**](https://verify.skilljar.com/c/5cty7723xaup) — *Anthropic* ![Anthropic Certified](https://img.shields.io/badge/Anthropic-Certified-2D6A4F?style=flat-square&logo=anthropic&logoColor=white)
 - 🧠 [**AI Fundamentals**](https://www.datacamp.com/skill-verification/AIF0020458005675) — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
