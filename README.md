@@ -36,8 +36,6 @@ Four years of Computer Science gave me a strong foundation in **programming**, *
 
 I'm a strong communicator and organized, and I write regularly. When the time comes, I don't just analyze data; I explain it clearly to people who don't live in spreadsheets.
 
-🎯 **Looking for opportunities:** Actively seeking my first **Data Analyst** or **Business Analyst role**. Open to internships, full-time positions, and freelance projects.
-
 </div>
 
 ---
