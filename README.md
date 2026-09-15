@@ -84,6 +84,39 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 ---
 
+## 💼 Career History | Experience
+
+### 🤝 Community & Educational Volunteer
+**Al-Burhan** · *Lahore, Pakistan*  
+`Oct 2024 – Present`
+- Ongoing volunteer contributor supporting the organization's community and educational activities.
+
+### 💊 Pharmacy Assistant *(Part-time)*
+**Ghafori Maternity Hospital and Surgical Center** · *Lahore, Pakistan*  
+`2020 – 2022`
+- **Billing & Transaction Integrity:** Managed patient billing and financial transactions, maintaining rigorous numerical accuracy across charge calculations and payment processing.
+- **Operational Inventory Tracking:** Maintained organized inventory and pricing records to support accurate day-to-day operational tracking.
+- **Client & Patient Advisory:** Guided patients on medication pricing and procedures — translating technical, procedural information into clear terms non-specialists could act on.
+
+---
+
+## 🎓 Academic Foundations | Education
+
+### 🏛️ Bachelor of Science in Computer Science
+**University of South Asia** · *Lahore, Pakistan*  
+`Sep 2022 – Jul 2026` · **Grade:** `B`
+- Four years of computer science gave me a strong foundation in programming, algorithms, and analytical thinking.
+
+### 📚 Intermediate with Computer Science (ICS)
+**Unique Group of Institutions** · *Lahore, Pakistan*  
+`2020 – 2022` · **Grade:** `A`
+
+### 🏫 Matriculation with Computer Science
+**Dar-e-Arqam Schools** · *Lahore, Pakistan*  
+`2006 – 2020` · **Grade:** `A+`
+
+---
+
 ## 🏰 Curated Works | Featured Projects
 
 | 📊 **[Analyzing-Customer-Churn](https://github.com/HussainRiaz-sudo/Analyzing-Customer-Churn.)** | 🌐 **[Portfolio](https://github.com/HussainRiaz-sudo/Portfolio)** |
