@@ -85,6 +85,11 @@ I'm a strong communicator and organized, and I write regularly. When the time co
 
 ## 💼 Career History | Experience
 
+### 🤖 Machine Learning & Gen-AI Intern
+**BigBrains**  
+`Sep 2026 – Present`
+- Contributing to machine learning workflows and Generative AI solutions, exploring modern AI models and data-driven implementations.
+
 ### 🤝 Community & Educational Volunteer
 **Al-Burhan** · *Lahore, Pakistan*  
 `Oct 2024 – Present`
