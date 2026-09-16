@@ -60,20 +60,6 @@ I focus on **data integrity**, auditing and cleaning raw datasets before drawing
 
 ---
 
-## 🏰 Curated Works | Featured Projects
-
-| 📊 **[Analyzing-Customer-Churn](https://github.com/HussainRiaz-sudo/Analyzing-Customer-Churn.)** | 🌐 **[Portfolio](https://github.com/HussainRiaz-sudo/Portfolio)** |
-|:---|:---|
-| Executed EDA, data cleaning, and feature engineering on Databel's 6,687-customer telecom dataset in Microsoft Excel to uncover key drivers of customer attrition.<br/><br/>• **Baseline Churn Rate:** 26.86% (1,796 churned customers).<br/>• **Contract Risk:** Month-to-Month (46.29%) vs 2-Year (2.78%).<br/>• **Primary Catalyst:** Competitor offers (~45% of total churn).<br/><br/>![Excel](https://img.shields.io/badge/Excel-Advanced_Analysis-2D6A4F?style=flat-square&logo=microsoftexcel&logoColor=white) ![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-Data_Modeling-3A5A40?style=flat-square) ![EDA](https://img.shields.io/badge/EDA-Churn_Drivers-2A9D8F?style=flat-square) | Personal developer portfolio website showcasing data analytics projects, interactive case studies, and skills.<br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-2D6A4F?style=flat-square&logo=javascript&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-Live_App-3A5A40?style=flat-square&logo=vercel&logoColor=white) ![Live Website](https://img.shields.io/badge/Live-Website-2A9D8F?style=flat-square) |
-
-<br/>
-
-| 🏥 **[Patient-Tracker](https://github.com/HussainRiaz-sudo/Patient-Tracker)** | 🕌 **[Baab-Ul-Salah](https://github.com/HussainRiaz-sudo/Baab-Ul-Salah)** |
-|:---|:---|
-| Healthcare workflow management system designed for tracking patient workflows and revenue-sharing logic.<br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-2D6A4F?style=flat-square&logo=javascript&logoColor=white) ![Workflow](https://img.shields.io/badge/Workflow-Management-3A5A40?style=flat-square) ![Revenue Logic](https://img.shields.io/badge/Revenue_Split-70%2F30-2A9D8F?style=flat-square) | Computer Science Final Year Project (FYP) repository.<br/><br/>![Python](https://img.shields.io/badge/Python-2D6A4F?style=flat-square&logo=python&logoColor=white) ![FYP](https://img.shields.io/badge/CS-Final_Year_Project-3A5A40?style=flat-square) |
-
----
-
 ## 💼 Career History | Experience
 
 ### 🤖 Machine Learning & Gen-AI Intern
@@ -95,18 +81,17 @@ I focus on **data integrity**, auditing and cleaning raw datasets before drawing
 
 ---
 
-## 📜 Certifications & Learning
+## 🏰 Curated Works | Featured Projects
 
-[![View Certifications & Credentials](https://img.shields.io/badge/View-Certifications_%26_Credentials-2D6A4F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hussain-riaz-959a9b254/)
+| 📊 **[Analyzing-Customer-Churn](https://github.com/HussainRiaz-sudo/Analyzing-Customer-Churn.)** | 🌐 **[Portfolio](https://github.com/HussainRiaz-sudo/Portfolio)** |
+|:---|:---|
+| Executed EDA, data cleaning, and feature engineering on Databel's 6,687-customer telecom dataset in Microsoft Excel to uncover key drivers of customer attrition.<br/><br/>• **Baseline Churn Rate:** 26.86% (1,796 churned customers).<br/>• **Contract Risk:** Month-to-Month (46.29%) vs 2-Year (2.78%).<br/>• **Primary Catalyst:** Competitor offers (~45% of total churn).<br/><br/>![Excel](https://img.shields.io/badge/Excel-Advanced_Analysis-2D6A4F?style=flat-square&logo=microsoftexcel&logoColor=white) ![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-Data_Modeling-3A5A40?style=flat-square) ![EDA](https://img.shields.io/badge/EDA-Churn_Drivers-2A9D8F?style=flat-square) | Personal developer portfolio website showcasing data analytics projects, interactive case studies, and skills.<br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-2D6A4F?style=flat-square&logo=javascript&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-Live_App-3A5A40?style=flat-square&logo=vercel&logoColor=white) ![Live Website](https://img.shields.io/badge/Live-Website-2A9D8F?style=flat-square) |
 
-- 🎯 [**Associate Data Analyst**](https://www.datacamp.com/certificate/DAA0013879261292) — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
-- 🤖 [**Claude 101**](https://verify.skilljar.com/c/rp7p5e5nhjdd) — *Anthropic* ![Anthropic Certified](https://img.shields.io/badge/Anthropic-Certified-2D6A4F?style=flat-square&logo=anthropic&logoColor=white)
-- 💡 [**AI Fluency Framework & Foundations**](https://verify.skilljar.com/c/5cty7723xaup) — *Anthropic* ![Anthropic Certified](https://img.shields.io/badge/Anthropic-Certified-2D6A4F?style=flat-square&logo=anthropic&logoColor=white)
-- 🧠 [**AI Fundamentals**](https://www.datacamp.com/skill-verification/AIF0020458005675) — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
-- 📊 [**Data Literacy Professional**](https://www.datacamp.com/skill-verification/DL0037146852993) — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
-- 🛡️ [**Data Governance Fundamentals**](https://www.datacamp.com/skill-verification/DG0024071040363) — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
-- 🔒 [**GDPR & Data Privacy Fundamentals**](https://www.datacamp.com/skill-verification/GDP0013884735456) — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
-- 🐍 **Data Analysis Using Python** — *NAVTTC* ![NAVTTC Certified](https://img.shields.io/badge/NAVTTC-Certified-2D6A4F?style=flat-square&logo=python&logoColor=white)
+<br/>
+
+| 🏥 **[Patient-Tracker](https://github.com/HussainRiaz-sudo/Patient-Tracker)** | 🕌 **[Baab-Ul-Salah](https://github.com/HussainRiaz-sudo/Baab-Ul-Salah)** |
+|:---|:---|
+| Healthcare workflow management system designed for tracking patient workflows and revenue-sharing logic.<br/><br/>![JavaScript](https://img.shields.io/badge/JavaScript-2D6A4F?style=flat-square&logo=javascript&logoColor=white) ![Workflow](https://img.shields.io/badge/Workflow-Management-3A5A40?style=flat-square) ![Revenue Logic](https://img.shields.io/badge/Revenue_Split-70%2F30-2A9D8F?style=flat-square) | Computer Science Final Year Project (FYP) repository.<br/><br/>![Python](https://img.shields.io/badge/Python-2D6A4F?style=flat-square&logo=python&logoColor=white) ![FYP](https://img.shields.io/badge/CS-Final_Year_Project-3A5A40?style=flat-square) |
 
 ---
 
@@ -121,9 +106,20 @@ I focus on **data integrity**, auditing and cleaning raw datasets before drawing
 **Unique Group of Institutions** · *Lahore, Pakistan*  
 `2020 – 2022` · **Grade:** `A`
 
-### 🏫 Matriculation with Computer Science
-**Dar-e-Arqam Schools** · *Lahore, Pakistan*  
-`2006 – 2020` · **Grade:** `A+`
+---
+
+## 📜 Certifications & Learning
+
+[![View Certifications & Credentials](https://img.shields.io/badge/View-Certifications_%26_Credentials-2D6A4F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hussain-riaz-959a9b254/)
+
+- 🎯 [**Associate Data Analyst**](https://www.datacamp.com/certificate/DAA0013879261292) — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
+- 🤖 [**Claude 101**](https://verify.skilljar.com/c/rp7p5e5nhjdd) — *Anthropic* ![Anthropic Certified](https://img.shields.io/badge/Anthropic-Certified-2D6A4F?style=flat-square&logo=anthropic&logoColor=white)
+- 💡 [**AI Fluency Framework & Foundations**](https://verify.skilljar.com/c/5cty7723xaup) — *Anthropic* ![Anthropic Certified](https://img.shields.io/badge/Anthropic-Certified-2D6A4F?style=flat-square&logo=anthropic&logoColor=white)
+- 🧠 [**AI Fundamentals**](https://www.datacamp.com/skill-verification/AIF0020458005675) — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
+- 📊 [**Data Literacy Professional**](https://www.datacamp.com/skill-verification/DL0037146852993) — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
+- 🛡️ [**Data Governance Fundamentals**](https://www.datacamp.com/skill-verification/DG0024071040363) — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
+- 🔒 [**GDPR & Data Privacy Fundamentals**](https://www.datacamp.com/skill-verification/GDP0013884735456) — *DataCamp* ![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified-2D6A4F?style=flat-square&logo=datacamp&logoColor=white)
+- 🐍 **Data Analysis Using Python** — *NAVTTC* ![NAVTTC Certified](https://img.shields.io/badge/NAVTTC-Certified-2D6A4F?style=flat-square&logo=python&logoColor=white)
 
 ---
 
