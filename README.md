@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Data%20Analyst%20%7C%20Business%20Analyst-2D6A4F?style=for-the-badge&logo=target&logoColor=white" />
   <img src="https://img.shields.io/badge/Degree-BS%20Computer%20Science-3A5A40?style=for-the-badge&logo=academic-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-2A9D8F?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
