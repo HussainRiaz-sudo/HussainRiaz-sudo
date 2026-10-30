@@ -29,11 +29,12 @@
 
 <div align="center">
 
-Four years of Computer Science gave me a strong foundation in **programming**, **algorithms**, and **analytical thinking**. In my final stretch, I went all in on **Data Analytics**—building real-world SQL databases, analyzing data with Excel & Python, and sharpening my skills through the full analyst toolkit ever since.
+Four years of computer science gave me a strong foundation in programming, algorithms, and analytical thinking. Since then I've gone all in on **analytics**, working with **SQL, Excel, and Python (Pandas, NumPy)** to turn raw data into decisions.
 
-> 🔮 *I'm genuinely curious about data—not just technically, but about what it's actually saying. Why does this number look off? What's the trend beneath the surface telling us? That kind of thinking is what pulled me toward analytics and keeps me in it.*
+> 🔮 *I'm genuinely curious about data, not just technically, but about what it's actually saying. Why does this number look off? What's the trend beneath the surface telling us? That kind of thinking is what pulled me toward analytics and keeps me in it.*
 
-I focus on **data integrity**, auditing and cleaning raw datasets before drawing conclusions, and translating complex findings into clear, actionable insights for non-technical stakeholders.
+I'm a strong communicator and organized, and I explain findings clearly to people who don't live in spreadsheets.
+Open to Junior Data Analyst and Business Analyst roles, internships, and freelance work. Let's talk if you're working on something worth solving.
 
 </div>
 
