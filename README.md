@@ -5,8 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2D6A4F&center=true&vCenter=true&width=750&lines=Junior+Data+Analyst+%7C+Business+Analyst+%7C+SQL+%E2%80%A2+Excel+%E2%80%A2+Python;CS+Graduate+%7C+SQL%2C+Excel+%26+Data+Analytics;Finding+Patterns+in+the+Noise+%26+Stories+in+Data)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Data%20Analyst%20%7C%20Business%20Analyst-2D6A4F?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Junior%20Data%20Analyst%20%7C%20Business%20Analyst-2D6A4F?style=for-the-badge&logo=target&logoColor=white" />
   <img src="https://img.shields.io/badge/Degree-BS%20Computer%20Science-3A5A40?style=for-the-badge&logo=academic-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-2A9D8F?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
